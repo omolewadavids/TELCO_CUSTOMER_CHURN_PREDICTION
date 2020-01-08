@@ -1,11 +1,11 @@
 # TELCO_CUSTOMER_CHURN_PREDICTION
 
-# Description:
+## Description:
 
-# Installation:
+## Installation:
 
-# Usage:
+## Usage:
 
-# Credits:
+## Credits:
 
-# License:
+## License:
